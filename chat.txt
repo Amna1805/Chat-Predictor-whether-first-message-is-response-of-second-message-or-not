@@ -1,0 +1,292 @@
+03/09/2023, 8:07 pm - Pwh Services: Good evening Hassan here
+03/09/2023, 8:08 pm - Amna: Good Evening yes
+03/09/2023, 8:08 pm - Pwh Services: I have seen documentation and erd
+03/09/2023, 8:08 pm - Amna: ok
+03/09/2023, 8:09 pm - Pwh Services: I am sending it for approval.If there will be any change let me inform.
+03/09/2023, 8:09 pm - Amna: Okay  will inform you.
+03/09/2023, 8:09 pm - Pwh Services: Tell me about project price and i will give you more projects.
+03/09/2023, 8:10 pm - Amna: Ok
+03/09/2023, 8:10 pm - Pwh Services: Have you ever did in react or some other frameworks.
+03/09/2023, 8:11 pm - Amna: Yes i have done work in react also in djanog and vue
+03/09/2023, 8:11 pm - Pwh Services: send me account number. i will disucss more projects with you later
+03/09/2023, 8:11 pm - Amna: Okay i am sending
+03/09/2023, 8:13 pm - Pwh Services: How much hours you have worked and if there any chance of plagarsim?
+03/09/2023, 8:14 pm - Amna: 2 hrs and i have paraphrased it.
+03/09/2023, 8:14 pm - Pwh Services: and what about erd?any chances of plagraism?
+03/09/2023, 8:15 pm - Amna: ok
+03/09/2023, 8:15 pm - Amna: let me check 
+03/09/2023, 8:15 pm - Pwh Services: Dont check as whole just check some part
+03/09/2023, 8:18 pm - Pwh Services: Send me Account number 
+03/09/2023, 8:19 pm - Amna: Account 01870350000277 Askari Bank
+03/09/2023, 8:34 pm - Pwh Services: there are chnages in report
+03/09/2023, 8:36 pm - Amna: ok
+03/09/2023, 8:36 pm - Amna: i am free i can do html css
+03/09/2023, 8:36 pm - Pwh Services: first phase is html css and react
+03/09/2023, 8:36 pm - Pwh Services: there will be 2 tasks
+03/09/2023, 8:36 pm - Amna: ok
+03/09/2023, 8:37 pm - Pwh Services: there's new idea about report so there are changes i am sending you
+03/09/2023, 8:40 pm - Amna: Okay
+04/09/2023, 11:04 am - Pwh Services: have you seen it?
+04/09/2023, 11:05 am - Amna: yes i have see
+04/09/2023, 11:05 am - Amna: Schema will be required in this
+04/09/2023, 11:05 am - Pwh Services: write report excluding schema
+04/09/2023, 11:05 am - Pwh Services: after shcema make erd
+04/09/2023, 11:06 am - Amna: ok
+04/09/2023, 11:06 am - Pwh Services: Any idea about prototype
+04/09/2023, 11:06 am - Amna: yes
+04/09/2023, 11:08 am - Pwh Services: This is protype example make like this
+04/09/2023, 11:09 am - Amna: ok i will make prototype like this
+04/09/2023, 11:10 am - Amna: will design be the same?
+04/09/2023, 11:10 am - Pwh Services: design will be differrent this is juts example
+04/09/2023, 11:11 am - Pwh Services: prototype will be acc to our implementation.
+04/09/2023, 11:12 am - Amna: ok
+04/09/2023, 11:12 am - Pwh Services: these are requiremenets make accoring to it
+04/09/2023, 11:12 am - Amna: when to submit?
+04/09/2023, 11:13 am - Pwh Services: by 5 pm have to submit it
+04/09/2023, 11:13 am - Amna: will be difficult by 5 pm
+04/09/2023, 11:13 am - Pwh Services: ok by 9 pm
+04/09/2023, 11:14 am - Amna: Ok
+04/09/2023, 9:27 pm - Pwh Services: hello Please update me
+04/09/2023, 9:29 pm - Amna: hello working on prototype
+04/09/2023, 9:30 pm - Pwh Services: Great 
+04/09/2023, 9:31 pm - Amna: thanks
+04/09/2023, 9:31 pm - Pwh Services: what about erd 
+04/09/2023, 9:31 pm - Amna: Erd is underprocess
+04/09/2023, 9:32 pm - Pwh Services: Good 👍
+04/09/2023, 9:36 pm - Pwh Services: change name on top
+04/09/2023, 9:36 pm - Amna: ok
+04/09/2023, 9:38 pm - Pwh Services: is this correct prototype
+04/09/2023, 11:57 pm - Amna: yes it is correct will send you be late night
+04/09/2023, 11:57 pm - Pwh Services: ok i will wait
+05/09/2023, 12:00 am - Amna: send me ss of protype file
+05/09/2023, 12:00 am - Amna: protype file?
+05/09/2023, 12:00 am - Amna: yes
+05/09/2023, 12:01 am - Pwh Services: ok
+05/09/2023, 12:18 am - Pwh Services: -Foreign & primary indications are not marked in Er diagram & They are not explained in report.Please include them.For users entity, The attributes which are given in ER diagram are not actually mentioned in project, Please check that.( Shared same from previous report of users entity)- instrcutor, admin, program coordinator, quality assurance officer,academic program, Reporting & Analytics entities are not mentioned in ER diagram.- users(students) should also be able to view their overall performance. In ER they are only able to view their exam result
+05/09/2023, 12:21 am - Amna: i have shown primary and foriegn ket relation will check User attributes m Instructor and admin user have different role will check Performance 
+05/09/2023, 2:33 am - Amna: Iny quality assurance and program coordinator they have no role so not in erd
+05/09/2023, 9:31 am - Pwh Services: Schema diagram missing after changing ERD.. change the matter in report for cardinality and relations
+05/09/2023, 10:50 am - Amna: ok i will change
+05/09/2023, 11:19 am - Pwh Services: after changing ERD.. change the matter in report for cardinality and relations say him this because..new entities relationships and attributes will be added
+05/09/2023, 12:48 pm - Amna: what roles to be included
+05/09/2023, 1:20 pm - Pwh Services: OK
+05/09/2023, 3:51 pm - Amna: Review this report
+05/09/2023, 4:08 pm - Pwh Services: which roles are not interacting?
+05/09/2023, 4:09 pm - Amna: Program coordinator-> program evaluationQa officer ->accreditation i haved added this ones? are these fine?
+05/09/2023, 4:09 pm - Pwh Services: yes it is fine will be accpeted
+05/09/2023, 4:09 pm - Amna: can i start schema
+05/09/2023, 4:11 pm - Pwh Services: yes start but cross check
+05/09/2023, 4:14 pm - Amna: Ok
+05/09/2023, 4:14 pm - Pwh Services: Thanks
+05/09/2023, 5:45 pm - Pwh Services: when will complete
+05/09/2023, 5:45 pm - Amna: working  1 hour
+05/09/2023, 5:46 pm - Pwh Services: send erd and schema
+05/09/2023, 5:46 pm - Amna: sending
+05/09/2023, 5:46 pm - Pwh Services: update erd
+05/09/2023, 5:49 pm - Amna: ok
+05/09/2023, 7:52 pm - Pwh Services: send pdf not zip
+05/09/2023, 7:52 pm - Pwh Services: Pdf kro na
+05/09/2023, 7:53 pm - Amna: ok
+05/09/2023, 8:26 pm - Amna: report heading missing
+05/09/2023, 8:29 pm - Pwh Services: Okay
+06/09/2023, 8:12 pm - Amna:i have updated
+06/09/2023, 8:13 pm - Pwh Services: ok
+07/09/2023, 12:48 pm - Pwh Services: Your email please ?fill this sheet also
+07/09/2023, 8:05 pm - Amna: Ok i am filling this sheet
+07/09/2023, 8:06 pm - Pwh Services: will assign next work tommorrow
+07/09/2023, 8:06 pm - Amna: Ok
+07/09/2023, 8:06 pm - Pwh Services: Pre phase is accepted next is HTML CS
+07/09/2023, 8:08 pm - Amna: Ok
+11/09/2023, 10:55 pm - Pwh Services: any idea about git?
+11/09/2023, 10:56 pm - Amna: yes i have used git
+11/09/2023, 10:56 pm - Pwh Services: ok lets start next project
+11/09/2023, 10:57 pm - Amna: ok will start
+11/09/2023, 10:57 pm - Amna:  Qa officer and cooridnator roles are not understandable
+11/09/2023, 11:42 pm - Services: these roles should be in project
+11/09/2023, 11:45 pm - Pwh Services: Project title : Hostel Management System,Project objectivesProjectdescriptionProject problems statement Project time lineMembers tasksGantt ChartList of references
+11/09/2023, 11:48 pm - Amna: ok
+11/09/2023, 11:50 pm - Amna: i have written same
+11/09/2023, 11:50 pm - Pwh Services: no
+11/09/2023, 11:50 pm - Pwh Services: this format
+11/09/2023, 11:51 pm - Amna: no
+11/09/2023, 11:51 pm - Pwh Services: start from tomorrow 10
+11/09/2023, 11:51 pm - Amna: will start
+11/09/2023, 11:52 pm - Pwh Services: make it simple
+11/09/2023, 11:52 pm - Amna: ok
+11/09/2023, 11:52 pm - Pwh Services: Thanks
+11/09/2023, 11:53 pm - Amna: Ni problem
+12/09/2023, 7:51 pm - Pwh Services: hello Please update me
+12/09/2023, 7:52 pm - Amna: yes i am updating you within 1 hour
+12/09/2023, 7:53 pm - Pwh Services: make Gantt chart simple 
+12/09/2023, 7:53 pm - Amna: Ok
+12/09/2023, 7:55 pm - Pwh Services: Waiting
+12/09/2023, 7:55 pm - Amna: Ok
+12/09/2023, 8:32 pm - Amna: will send you Gant chart later
+12/09/2023, 8:37 pm - Pwh Services: ok
+12/09/2023, 8:39 pm - Amna: i am using project libree
+12/09/2023, 8:42 pm - Pwh Services: which software
+12/09/2023, 8:42 pm - Amna: Project libre
+12/09/2023, 8:43 pm - Pwh Services: Gantt chart should be prepared with excel or power point not with project libre
+12/09/2023, 9:12 pm - Pwh Services: For gantt chart u keep Nov 12 as the last date
+12/09/2023, 9:12 pm - Amna: Ok
+13/09/2023, 7:41 am - Pwh Services: Gantt chart not like that It's shouldn't mentioned like word or...Vs code.The names are what u kept in the time line same like that
+13/09/2023, 8:18 am - Amna:ok updating gant chart
+13/09/2023, 8:19 am - Amna: Should I not include all these fields then?
+13/09/2023, 8:19 am - Pwh Services: Yes, these points should be included.We need to submit it within 1 hour.
+13/09/2023, 8:20 am - Amna: I'll send it.with in 1 hour
+13/09/2023, 8:20 am - Pwh Services: Yes, that's what they sent.
+13/09/2023, 8:20 am - Amna: Ok
+13/09/2023, 8:20 am - Pwh Services: Create one like this Update the second one with the name.
+13/09/2023, 8:21 am - Amna: Ok
+13/09/2023, 8:27 am - Amna: Should I include these names in the timeline?
+13/09/2023, 8:35 am - Pwh Services: Yes, include them. Just told you now.
+13/09/2023, 10:40 am - Amna: Can you tell me your GitHub username?I'll create a collaboration.
+13/09/2023, 10:44 am - Pwh Services: Username Hassan0308 hassankareem0315@gmail.com
+13/09/2023, 12:06 pm - Pwh Services: The hostel management system you have, what language is it written in?
+13/09/2023, 12:09 pm - Amna: It's for scholarship management.It's in PHP.
+13/09/2023, 12:09 pm - Pwh Services: I see.In which software did you create the Gantt chart?
+13/09/2023, 12:21 pm - Amna: MS Project.
+13/09/2023, 10:48 pm - Pwh Services: Amna, any updates?
+13/09/2023, 10:49 pm - Amna: Yes, I have created the repository today. We will start working from today. 
+14/09/2023, 2:21 pm - Pwh Services: Hello.Any updates?
+14/09/2023, 2:21 pm - Amna: Hello, I will update it by tonight.
+14/09/2023, 2:27 pm - Pwh Services: Okay, I want to discuss the hostel management one.
+14/09/2023, 2:27 pm - Pwh Services: We can discuss it tonight.
+14/09/2023, 2:31 pm - Amna: Sure, that's fine.
+14/09/2023, 4:09 pm - Pwh Services: You need to create it in HTML and CSS.
+14/09/2023, 4:10 pm - Pwh Services: Please update me about work.
+14/09/2023, 4:10 pm - Amna: signup forgot password Header 
+14/09/2023, 8:34 pm - Amna: No, it's the hostel management, and it's different.The requirements for the scholarship were different.No, as I told you, I have scholarship management.
+14/09/2023, 8:38 pm - Pwh Services: ok
+14/09/2023, 8:46 pm - Amna: Maybe we can use some parts from it.
+14/09/2023, 8:46 pm - Pwh Services: I have one that's already created.We can use it.
+14/09/2023, 8:47 pm - Amna: Okay.I'll focus on this one for now.
+14/09/2023, 11:33 pm - Pwh Services: Okay.
+15/09/2023, 12:13 am - Amna: I've done it. Check the commit.
+15/09/2023, 9:50 am - Pwh Services: Okay.
+15/09/2023, 3:24 pm - Amna: I'll cover more over the weekend.
+15/09/2023, 3:24 pm - Pwh Services: Alright, just keep in mind to complete it by the 20th.
+15/09/2023, 3:25 pm - Amna: Okay.
+15/09/2023, 3:25 pm - Pwh Services: Also, update the spreadsheet along with it.
+16/09/2023, 4:05 pm - Amna: Sure.will update soon
+16/09/2023, 4:05 pm - Amna: I committed it last night. Please check.
+16/09/2023, 6:45 pm - Pwh Services: Okay. i will check
+16/09/2023, 6:45 pm - Pwh Services: How many pages are done now?
+16/09/2023, 6:46 pm - Amna: The pages before login are done.I'll probably finish the student portal today.If I complete one part, the rest will follow.
+17/09/2023, 9:50 pm - Pwh Services: Hello, update me. Thanks.
+17/09/2023, 10:08 pm - Amna: Hello, the student portal is almost complete. I'll commit it tonight.
+17/09/2023, 10:41 pm - Pwh Services: Okay.
+19/09/2023, 1:22 am - Pwh Services: Hello.
+19/09/2023, 1:23 am - Pwh Services: Push the code; I have to give a demo in the morning.At 10 am.
+19/09/2023, 1:23 am - Amna: Okay.i am pushing
+19/09/2023, 1:23 am - Pwh Services: The same branch, right?
+19/09/2023, 1:23 am - Amna: Yes.same branch
+19/09/2023, 1:23 am - Amna: Most likely, I'll finish the instructor's side today.
+19/09/2023, 1:23 am - Pwh Services: Okay, great.
+19/09/2023, 1:23 am - Amna: The rest, I'll push today.
+19/09/2023, 1:23 am - Pwh Services: Okay, that's fine.
+19/09/2023, 1:23 am - Pwh Services: Are you pushing the code to the main branch now?
+19/09/2023, 1:24 am - Amna: yes i am pushing it
+19/09/2023, 1:24 am - Pwh Services: I didn't have time to check it.
+19/09/2023, 1:24 am - Amna: Okay
+19/09/2023, 8:35 pm - Pwh Services: Hello Update?
+19/09/2023, 10:20 pm - Amna: Hello, I worked on the Instructor portal in the morning and committed it. It still needs some more work. so here my update
+19/09/2023, 10:24 pm - Pwh Services: Will it be completed by tomorrow?
+19/09/2023, 10:25 pm - Amna: I'm trying my best. I'll come to the office and work on it.wil be completed by tomorrow
+19/09/2023, 10:25 pm - Pwh Services: Make sure to finish it by tomorrow.
+19/09/2023, 10:26 pm - Amna: Yes, I will.
+20/09/2023, 9:18 am - Pwh Services: Is the latest code pushed?
+20/09/2023, 2:50 pm - Amna: Yes.
+21/09/2023, 11:45 am - Pwh Services: Is the work complete?
+21/09/2023, 1:23 pm - Amna: Yes, it will be complted by tonight.
+21/09/2023, 1:33 pm - Pwh Services: Tonight?
+21/09/2023, 2:34 pm - Amna: Yes, by tonight.
+21/09/2023, 2:34 pm - Amna: The program coordinator and QA portals are active right now.
+21/09/2023, 2:34 pm - Pwh Services: Okay.
+21/09/2023, 11:20 pm - Pwh Services: Will it be completed tonight?
+21/09/2023, 11:21 pm - Amna: Yes, I'm trying my best. It should be done.
+21/09/2023, 11:21 pm - Amna: It will be done.
+21/09/2023, 11:31 pm - Pwh Services: Thanks.
+22/09/2023, 10:26 am - Pwh Services: I need to give a demo of this today. We'll have a meeting tonight.So I can give a demo later.
+22/09/2023, 1:59 pm - Amna: Okay.
+22/09/2023, 8:30 pm - Pwh Services: We'll have a meeting at 11.
+22/09/2023, 8:57 pm - Amna: Okay.
+22/09/2023, 11:01 pm - Pwh Services: https://meet.google.com/ugc-icde-yoz
+22/09/2023, 11:02 pm - Amna: Okay.
+22/09/2023, 11:17 pm - Pwh Services: Hostel management system
+22/09/2023, 11:20 pm - Amna: Yes, it's fine.
+22/09/2023, 11:31 pm - Pwh Services: Push the code, I'm waiting.
+22/09/2023, 11:32 pm - Amna: Okay, I'll do it.
+22/09/2023, 11:33 pm - Amna: I've done it.Just wait for 1 minute.Don't zip it now.Now you can.
+23/09/2023, 12:01 am - Pwh Services: Okay. i am wating and  havent zip
+23/09/2023, 4:34 pm - Pwh Services: Hello Update about HMS?
+23/09/2023, 4:39 pm - Amna: Hello. I haven't had a chance to check it yet. The university's work has kept me busy. I'll update you  by tonight.
+23/09/2023, 4:48 pm - Pwh Services: Okay.
+24/09/2023, 12:12 pm - Pwh Services: Hello Changes in the previous project 1. On the dashboard of each role, instead of "Welcome," it should be "Welcome to Admin" or "Welcome to Teacher." 2. On the QA Panel, the recommendation tab is not working.
+24/09/2023, 3:17 pm - Amna: Ok.
+24/09/2023, 3:17 pm - Amna: Hello, I've sent you 2 or 3 options.
+24/09/2023, 3:32 pm - Pwh Services: Select any one option that you find good.
+24/09/2023, 3:32 pm - Amna: One looks good to me.But its database import is not working.
+24/09/2023, 3:33 pm - Pwh Services: Check the report you prepared for that.
+24/09/2023, 7:24 pm - Amna: I'm outside right now. I'll send it to you in a while.
+24/09/2023, 8:54 pm - Amna: I've committed it.
+24/09/2023, 9:42 pm - Pwh Services: Okay.
+24/09/2023, 9:46 pm - Pwh Services: Amna.One thing is pending. Dropdown of login.
+24/09/2023, 9:48 pm - Amna: Okay, I'll add it by the 12th.
+24/09/2023, 9:48 pm - Pwh Services: By the 12th? Can't you add it now?Actually, I'm deploying it, and it crossed my mind.
+24/09/2023, 11:13 pm - Amna: Yes, it's fine.
+24/09/2023, 11:13 pm - Pwh Services: Is the laptop okay now?
+24/09/2023, 11:13 pm - Amna: Windows has become corrupted.
+24/09/2023, 11:13 pm - Pwh Services: Oh, okay.
+24/09/2023, 11:14 pm - Amna: Yes, it's Windows. We'll get it fixed tomorrow night.
+24/09/2023, 11:15 pm - Pwh Services: I didn't understand what you said.
+24/09/2023, 11:15 pm - Amna: In the morning, I'll get the Windows fixed, and then I'll set up the HMS tomorrow night.
+24/09/2023, 11:16 pm - Pwh Services: Alright, no problem.
+24/09/2023, 11:16 pm - Pwh Services: Should I make the payment for the hours you've worked? Do you need it?
+24/09/2023, 11:16 pm - Amna: No, do it whenever you want.You can make payemnt it for a month.
+24/09/2023, 11:17 pm - Pwh Services: Okay, I'll do it before the 6th of the month. But you can ask for it earlier if you need it.
+24/09/2023, 11:17 pm - Amna: Alright, by the 6th.
+26/09/2023, 1:11 am - Pwh Services: Hello.Any update? I need to move forward with the update.
+26/09/2023, 1:31 am - Amna: Hello. Yes, I've prepared the template.I'm setting it up now. I'll send you everything by tomorrow evening as much as I can.The issue with the database in it, I'll create that myself.You'll only use the front end.
+26/09/2023, 1:32 AM - Pwh Services: Don't have to build the entire backend yourself,
+26/09/2023, 1:32 AM - Amna: The backend isn't coming together properly.
+26/09/2023, 1:32 AM - Pwh Services: Is the backend built in PHP?
+26/09/2023, 1:32 AM - Amna: Yes, it's built in the template, but there are issues with importing the database.
+26/09/2023, 1:36 AM - Pwh Services: Get Maria's help. We need a simple HMS (Hospital Management System) and set it up.
+26/09/2023, 1:39 AM - Amna: Yes, I'll do it.
+26/09/2023, 1:40 AM - Pwh Services: Good, please update Maria tomorrow.
+26/09/2023, 1:40 AM - Amna: Okay, I'll do that.
+26/09/2023, 2:29 PM - Amna: HiI've seen it.The database import is done. Many functionalities have been implemented.There is still some work to do.How much time will it take, and when should it be done?
+26/09/2023, 2:35 PM - Pwh Services: ok
+26/09/2023, 2:37 PM - Amna: We are making progress; there are some additions to be made.I'm at the university right now, and I'll send you a video update later tonight.
+26/09/2023, 3:01 PM - Pwh Services: Okay.
+27/09/2023, 2:37 PM - Pwh Services: We made the first report before, and now we need to create a progress report.In the progress report, we need to explain the work that has been done.
+27/09/2023, 3:09 PM - Amna: Yes, that's correct.
+27/09/2023, 6:34 PM - Amna: Is the entire project supposed to be completed by October 8th?
+27/09/2023, 6:39 PM - Pwh Services: No not by 8th October.
+27/09/2023, 6:39 PM - Pwh Services: See this.
+27/09/2023, 6:40 PM - Amna: I'm not sure how to put this together.
+27/09/2023, 6:40 PM - Amna: Or what tools are required?
+27/09/2023, 6:42 PM - Pwh Services: Where are the tools mentioned?
+27/09/2023, 6:42 PM - Amna: This is for time and cost?
+27/09/2023, 6:43 PM - Amna: We've already mentioned this in the Gantt chart.
+27/09/2023, 6:44 PM - Amna: Okay, I will see how it's structured in the progress report.
+27/09/2023, 6:45 PM - Pwh Services: Yes, you see.Then, please confirm with me first.
+27/09/2023, 6:46 PM - Amna: Okay.
+27/09/2023, 6:46 PM - Pwh Services: The report is all about... planning....The code is not very important for this subject; what matters is the process.The professor doesn't inquire about the code. It's all about the project of software development.
+27/09/2023, 6:47 PM - Amna: So, how did you start?
+27/09/2023, 6:48 PM - Amna: Like, explaining how much we followed the Gantt chart?
+27/09/2023, 6:48 PM - Pwh Services: Yes, I think so.
+27/09/2023, 6:48 PM - Amna: Alright, I'll do this.
+28/09/2023, 11:37 PM - Pwh Services: Update? Hi Brother, This is Phase 2 Document. The Deadline is Oct 9th.
+28/09/2023, 11:37 PM - Pwh Services: Phase 2 is here.
+28/09/2023, 11:37 PM - Pwh Services: It needs to be submitted by 7th October. In this, I will create a blog in WordPress and you will work on your React part.
+29/09/2023, 1:14 PM - Amna: Okay, that's fine.
+29/09/2023, 1:48 PM - Pwh Services: I texted you last night.
+29/09/2023, 2:19 PM - Amna: I came back from university at 8 am and then went to sleep. thats why didnt  texted you last night.
+29/09/2023, 2:19 PM - Amna: I just woke up.
+29/09/2023, 2:19 PM - Pwh Services: Alright, no problem.
+29/09/2023, 2:19 PM - Pwh Services: Just make sure to update at night because I need to update it further.
+29/09/2023, 2:20 PM - Amna: Yes, it's the start of the final year, and it's quite a hectic routine.will updare you
+29/09/2023, 2:20 PM - Pwh Services: You need to convert the pages you created in HTML and CSS to React.
+29/09/2023, 2:20 PM - Amna: Alright, that's fine.
